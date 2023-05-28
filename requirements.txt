@@ -1,0 +1,7 @@
+numpy
+gradio
+torch==1.13.1
+usellm==0.0.3
+requests==2.31.0
+sacremoses==0.0.53
+transformers==4.29.0
